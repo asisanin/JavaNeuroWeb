@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NeuronWeb inputCount="2" layersCount="2" outputCount="1">
+    <Layers>
+        <Layer layerSize="2" synapsesCount="2">
+            <Neurons>
+                <Neuron synapsesCount="2">
+                    <weights>
+                        <weight>0.515534366240604</weight>
+                        <weight>-0.050081530888273836</weight>
+                    </weights>
+                </Neuron>
+                <Neuron synapsesCount="2">
+                    <weights>
+                        <weight>0.6867931380201375</weight>
+                        <weight>0.025145975516349804</weight>
+                    </weights>
+                </Neuron>
+            </Neurons>
+        </Layer>
+        <Layer layerSize="1" synapsesCount="2">
+            <Neurons>
+                <Neuron synapsesCount="2">
+                    <weights>
+                        <weight>1.6549743178456544</weight>
+                        <weight>-2.119608281213541</weight>
+                    </weights>
+                </Neuron>
+            </Neurons>
+        </Layer>
+    </Layers>
+</NeuronWeb>

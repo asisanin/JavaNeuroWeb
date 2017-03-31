@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NeuronWeb inputCount="2" layersCount="3" outputCount="1">
+    <Layers>
+        <Layer layerSize="2" synapsesCount="3">
+            <Neurons>
+                <Neuron synapsesCount="3">
+                    <weights>
+                        <weight>-2.000620523134441</weight>
+                        <weight>-2.0055847082099687</weight>
+                        <weight>1.9937947686555904</weight>
+                    </weights>
+                </Neuron>
+                <Neuron synapsesCount="3">
+                    <weights>
+                        <weight>2.9999405915756516</weight>
+                        <weight>2.999465324180863</weight>
+                        <weight>1.9994059157565145</weight>
+                    </weights>
+                </Neuron>
+            </Neurons>
+        </Layer>
+        <Layer layerSize="2" synapsesCount="3">
+            <Neurons>
+                <Neuron synapsesCount="3">
+                    <weights>
+                        <weight>-1.9838647086584442</weight>
+                        <weight>-3.9679453995160263</weight>
+                        <weight>3.0322705826831116</weight>
+                    </weights>
+                </Neuron>
+                <Neuron synapsesCount="3">
+                    <weights>
+                        <weight>2.009930059997146</weight>
+                        <weight>2.019727199171832</weight>
+                        <weight>-1.9801398800057077</weight>
+                    </weights>
+                </Neuron>
+            </Neurons>
+        </Layer>
+        <Layer layerSize="1" synapsesCount="3">
+            <Neurons>
+                <Neuron synapsesCount="3">
+                    <weights>
+                        <weight>3.012252143432087</weight>
+                        <weight>1.0731277057370046</weight>
+                        <weight>-1.899607589272252</weight>
+                    </weights>
+                </Neuron>
+            </Neurons>
+        </Layer>
+    </Layers>
+</NeuronWeb>

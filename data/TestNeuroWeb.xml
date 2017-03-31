@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NeuronWeb inputCount="5" layersCount="2" outputCount="3">
+    <Layers>
+        <Layer layerSize="4" synapsesCount="5">
+            <Neurons>
+                <Neuron synapsesCount="6">
+                    <weights>
+                        <weight>0.3926817766688221</weight>
+                        <weight>0.3377968484878573</weight>
+                        <weight>0.23316794124235096</weight>
+                        <weight>-0.46000180678933655</weight>
+                        <weight>0.07320907096022533</weight>
+                        <weight>1.0</weight>
+                    </weights>
+                </Neuron>
+                <Neuron synapsesCount="6">
+                    <weights>
+                        <weight>0.04310918371961525</weight>
+                        <weight>-0.39651733279552037</weight>
+                        <weight>0.44713268234432024</weight>
+                        <weight>-0.2894929281204677</weight>
+                        <weight>-0.33039170216360836</weight>
+                        <weight>1.0</weight>
+                    </weights>
+                </Neuron>
+                <Neuron synapsesCount="6">
+                    <weights>
+                        <weight>0.1358056264681493</weight>
+                        <weight>0.202067124006848</weight>
+                        <weight>0.24606046869937648</weight>
+                        <weight>-0.0022004275651638094</weight>
+                        <weight>-0.1535708087610771</weight>
+                        <weight>1.0</weight>
+                    </weights>
+                </Neuron>
+                <Neuron synapsesCount="6">
+                    <weights>
+                        <weight>-0.2679823386434338</weight>
+                        <weight>-0.48084180508152197</weight>
+                        <weight>-0.17820133262212268</weight>
+                        <weight>0.3726764773772131</weight>
+                        <weight>-0.2799688757776452</weight>
+                        <weight>1.0</weight>
+                    </weights>
+                </Neuron>
+            </Neurons>
+        </Layer>
+        <Layer layerSize="3" synapsesCount="4">
+            <Neurons>
+                <Neuron synapsesCount="5">
+                    <weights>
+                        <weight>0.10128033737619135</weight>
+                        <weight>-0.2221988676736799</weight>
+                        <weight>-0.4682622023182721</weight>
+                        <weight>0.091730683316397</weight>
+                        <weight>1.0</weight>
+                    </weights>
+                </Neuron>
+                <Neuron synapsesCount="5">
+                    <weights>
+                        <weight>0.16069069086282295</weight>
+                        <weight>-0.3291867133704983</weight>
+                        <weight>-0.2537240243539811</weight>
+                        <weight>0.4410120058787964</weight>
+                        <weight>1.0</weight>
+                    </weights>
+                </Neuron>
+                <Neuron synapsesCount="5">
+                    <weights>
+                        <weight>-0.3697852189945934</weight>
+                        <weight>-0.20935792397648934</weight>
+                        <weight>-0.15535647537344865</weight>
+                        <weight>-0.20366819012133797</weight>
+                        <weight>1.0</weight>
+                    </weights>
+                </Neuron>
+            </Neurons>
+        </Layer>
+    </Layers>
+</NeuronWeb>

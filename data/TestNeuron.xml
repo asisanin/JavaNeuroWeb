@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Neuron synapsesCount="6">
+    <weights>
+        <weight>-0.22382779286112486</weight>
+        <weight>0.3567199675233531</weight>
+        <weight>0.005957016908406998</weight>
+        <weight>-0.4068367256212576</weight>
+        <weight>-0.07027074113675391</weight>
+        <weight>1.0</weight>
+    </weights>
+</Neuron>

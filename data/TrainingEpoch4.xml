@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TrainingEpoch inputCount="2" iterationCount="1" outputCount="1">
+    <trainingSets>
+        <trainingSet inputCount="2" outputCount="1">
+            <inputValues>
+                <inputValue>0.1</inputValue>
+                <inputValue>0.9</inputValue>
+            </inputValues>
+            <sampleOutputValues>
+                <sampleOutputValue>0.9</sampleOutputValue>
+            </sampleOutputValues>
+        </trainingSet>
+    </trainingSets>
+</TrainingEpoch>
